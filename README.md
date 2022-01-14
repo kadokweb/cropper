@@ -38,7 +38,7 @@ KadokWeb é um conjunto de pequenos e otimizados componentes PHP para tarefas co
 Cropper is available via Composer:
 
 ```bash
-"kadokweb/cropper": "1.3.*"
+"kadokweb/cropper": "1.0.*"
 ```
 
 or run
